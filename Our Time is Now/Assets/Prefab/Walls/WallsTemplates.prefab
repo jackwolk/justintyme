@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2453013055677310997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2820826258334016560}
+  - component: {fileID: 3006975361406771978}
+  m_Layer: 0
+  m_Name: WallsTemplates
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2820826258334016560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2453013055677310997}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 27.652668, y: -11.1192665, z: 631.01953}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3006975361406771978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2453013055677310997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff69f39250dc23449b0c43fbae02d21f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 2018387339687371520, guid: 13724ca3690c7c74eb3fc536c373578c, type: 3}
+  - {fileID: 2018387339687371520, guid: 13724ca3690c7c74eb3fc536c373578c, type: 3}
+  - {fileID: 2018387339687371520, guid: 13724ca3690c7c74eb3fc536c373578c, type: 3}
+  - {fileID: 6692729016875075837, guid: 55ca95590799ccf4f84aa80fa6a99b0a, type: 3}
+  - {fileID: 7109253675570338045, guid: 3c1f71c91f560a74283a1b5b966bfe61, type: 3}
+  - {fileID: 7209586127518397438, guid: e0f607d15b7558b4fac6ae92ff801742, type: 3}
+  - {fileID: 1857326830688496140, guid: 483b9bb2172d19248aa5347e3f500f5d, type: 3}
+  - {fileID: 2018387339687371520, guid: 13724ca3690c7c74eb3fc536c373578c, type: 3}
+  - {fileID: 2018387339687371520, guid: 13724ca3690c7c74eb3fc536c373578c, type: 3}
+  - {fileID: 2018387339687371520, guid: 13724ca3690c7c74eb3fc536c373578c, type: 3}
+  - {fileID: 2018387339687371520, guid: 13724ca3690c7c74eb3fc536c373578c, type: 3}
+  - {fileID: 2018387339687371520, guid: 13724ca3690c7c74eb3fc536c373578c, type: 3}

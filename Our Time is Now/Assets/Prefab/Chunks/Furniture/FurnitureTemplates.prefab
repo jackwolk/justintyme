@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3425030689758413008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1629504928342182867}
+  - component: {fileID: -8041053115565921884}
+  m_Layer: 0
+  m_Name: FurnitureTemplates
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1629504928342182867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3425030689758413008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -68.61378, y: -29.402258, z: 560.33545}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-8041053115565921884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3425030689758413008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff69f39250dc23449b0c43fbae02d21f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 1658423477802465845, guid: b6b6053966ec05d448c22090bfabe8a8, type: 3}
+  - {fileID: 1176959851565490842, guid: 933609646044dd54a8f2a671355b48aa, type: 3}
+  - {fileID: 6289181938935677480, guid: 09aa9e39a2a631b498d8706472ab59a3, type: 3}
+  - {fileID: 1601810516358222597, guid: 1d4e56c50596f8242a23463522a8ae3e, type: 3}
+  - {fileID: 4590094402713046448, guid: 40fbcceb8fd57ed43b89aeae41db0b44, type: 3}
+  - {fileID: 4423296396322440763, guid: cbba1c16b8280ca4585068ce96111df0, type: 3}
